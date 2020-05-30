@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blog on 凱凱的部落格</title>
+    <title>blog on Kai&#39;s Blog</title>
     <link>https://iceyurk.github.io/blog/</link>
-    <description>Recent content in blog on 凱凱的部落格</description>
+    <description>Recent content in blog on Kai&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate>
@@ -12,12 +12,64 @@
     
     
     <item>
-      <title>凱凱的第一篇文章</title>
-      <link>https://iceyurk.github.io/blog/post-12/</link>
-      <pubDate>Fri, 22 May 2020 22:07:47 +0800</pubDate>
+      <title>作品 1 : 名片</title>
+      <link>https://iceyurk.github.io/blog/post-1/</link>
+      <pubDate>Fri, 29 May 2020 10:54:47 +0800</pubDate>
       
-      <guid>https://iceyurk.github.io/blog/post-12/</guid>
-      <description>之前吃到的好吃日本料理</description>
+      <guid>https://iceyurk.github.io/blog/post-1/</guid>
+      <description>此作品是名片 用信封的形式，介紹自己。
+滑鼠移到名片上，會輕微浮動，好像浮在上面一樣。
+作品連結</description>
+    </item>
+    
+    <item>
+      <title>作品 2 : 天氣盒子</title>
+      <link>https://iceyurk.github.io/blog/post-2/</link>
+      <pubDate>Fri, 29 May 2020 10:54:47 +0800</pubDate>
+      
+      <guid>https://iceyurk.github.io/blog/post-2/</guid>
+      <description>此作品是天氣盒子 盒子剛載入時，天氣會由亮變暗，然後月亮會從上弦月變成下弦月，並且顯示現在的天氣。最下面會出現這一週的天氣狀況。
+作品連結</description>
+    </item>
+    
+    <item>
+      <title>作品 3 : 購物清單</title>
+      <link>https://iceyurk.github.io/blog/post-3/</link>
+      <pubDate>Fri, 29 May 2020 10:54:47 +0800</pubDate>
+      
+      <guid>https://iceyurk.github.io/blog/post-3/</guid>
+      <description>此作品是購物清單(Jquery ajax) 清單裡面的商品可以新增或刪除，更改之後總價會即時做統計。
+作品連結</description>
+    </item>
+    
+    <item>
+      <title>作品 4 : 海洋</title>
+      <link>https://iceyurk.github.io/blog/post-4/</link>
+      <pubDate>Fri, 29 May 2020 10:54:47 +0800</pubDate>
+      
+      <guid>https://iceyurk.github.io/blog/post-4/</guid>
+      <description>此作品是以海洋為主題的網頁(Bootstrap) 分為三個區塊，城市向海的一隅、最後一次看見海洋是什麼時候呢、海洋的故事。
+作品連結</description>
+    </item>
+    
+    <item>
+      <title>作品 5 : 設計工作室</title>
+      <link>https://iceyurk.github.io/blog/post-5/</link>
+      <pubDate>Fri, 29 May 2020 10:54:47 +0800</pubDate>
+      
+      <guid>https://iceyurk.github.io/blog/post-5/</guid>
+      <description>此作品是以工作室為主題的網頁(Bootstrap) 裡面的works區塊，當滑鼠移過去時，會顯示標題。可以跟裡面的貓咪互動，它會動起來。
+作品連結</description>
+    </item>
+    
+    <item>
+      <title>作品 6 : 印刷術</title>
+      <link>https://iceyurk.github.io/blog/post-6/</link>
+      <pubDate>Fri, 29 May 2020 10:54:47 +0800</pubDate>
+      
+      <guid>https://iceyurk.github.io/blog/post-6/</guid>
+      <description>此作品是以印刷術為主題的網頁(Bootstrap) 有特殊的捲動式網頁效果，當使用者滑到特殊位置時，每個東西會逐漸出現，甚至地圖會做縮放。
+作品連結</description>
     </item>
     
   </channel>

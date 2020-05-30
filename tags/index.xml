@@ -1,31 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 凱凱的部落格</title>
+    <title>Tags on Kai&#39;s Blog</title>
     <link>https://iceyurk.github.io/tags/</link>
-    <description>Recent content in Tags on 凱凱的部落格</description>
+    <description>Recent content in Tags on Kai&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 22 May 2020 22:07:47 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2020 10:54:47 +0800</lastBuildDate>
     
 	<atom:link href="https://iceyurk.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>japan</title>
-      <link>https://iceyurk.github.io/tags/japan/</link>
-      <pubDate>Fri, 22 May 2020 22:07:47 +0800</pubDate>
+      <title>ajax</title>
+      <link>https://iceyurk.github.io/tags/ajax/</link>
+      <pubDate>Fri, 29 May 2020 10:54:47 +0800</pubDate>
       
-      <guid>https://iceyurk.github.io/tags/japan/</guid>
+      <guid>https://iceyurk.github.io/tags/ajax/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>restaurant</title>
-      <link>https://iceyurk.github.io/tags/restaurant/</link>
-      <pubDate>Fri, 22 May 2020 22:07:47 +0800</pubDate>
+      <title>Bootstrap</title>
+      <link>https://iceyurk.github.io/tags/bootstrap/</link>
+      <pubDate>Fri, 29 May 2020 10:54:47 +0800</pubDate>
       
-      <guid>https://iceyurk.github.io/tags/restaurant/</guid>
+      <guid>https://iceyurk.github.io/tags/bootstrap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Front-End Development</title>
+      <link>https://iceyurk.github.io/tags/front-end-development/</link>
+      <pubDate>Fri, 29 May 2020 10:54:47 +0800</pubDate>
+      
+      <guid>https://iceyurk.github.io/tags/front-end-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jquery</title>
+      <link>https://iceyurk.github.io/tags/jquery/</link>
+      <pubDate>Fri, 29 May 2020 10:54:47 +0800</pubDate>
+      
+      <guid>https://iceyurk.github.io/tags/jquery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Website</title>
+      <link>https://iceyurk.github.io/tags/website/</link>
+      <pubDate>Fri, 29 May 2020 10:54:47 +0800</pubDate>
+      
+      <guid>https://iceyurk.github.io/tags/website/</guid>
       <description></description>
     </item>
     

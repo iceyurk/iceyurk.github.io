@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kai&#39;s Blog</title>
-    <link>https://iceyurk.github.io/</link>
-    <description>Recent content on Kai&#39;s Blog</description>
+    <title>Front-End Development on Kai&#39;s Blog</title>
+    <link>https://iceyurk.github.io/tags/front-end-development/</link>
+    <description>Recent content in Front-End Development on Kai&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Fri, 29 May 2020 10:54:47 +0800</lastBuildDate>
     
-	<atom:link href="https://iceyurk.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://iceyurk.github.io/tags/front-end-development/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

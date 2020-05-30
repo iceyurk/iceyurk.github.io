@@ -1,46 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kai&#39;s Blog</title>
-    <link>https://iceyurk.github.io/</link>
-    <description>Recent content on Kai&#39;s Blog</description>
+    <title>Bootstrap on Kai&#39;s Blog</title>
+    <link>https://iceyurk.github.io/tags/bootstrap/</link>
+    <description>Recent content in Bootstrap on Kai&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Fri, 29 May 2020 10:54:47 +0800</lastBuildDate>
     
-	<atom:link href="https://iceyurk.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://iceyurk.github.io/tags/bootstrap/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>作品 1 : 名片</title>
-      <link>https://iceyurk.github.io/blog/post-1/</link>
-      <pubDate>Fri, 29 May 2020 10:54:47 +0800</pubDate>
-      
-      <guid>https://iceyurk.github.io/blog/post-1/</guid>
-      <description>此作品是名片 用信封的形式，介紹自己。
-滑鼠移到名片上，會輕微浮動，好像浮在上面一樣。
-作品連結</description>
-    </item>
-    
-    <item>
-      <title>作品 2 : 天氣盒子</title>
-      <link>https://iceyurk.github.io/blog/post-2/</link>
-      <pubDate>Fri, 29 May 2020 10:54:47 +0800</pubDate>
-      
-      <guid>https://iceyurk.github.io/blog/post-2/</guid>
-      <description>此作品是天氣盒子 盒子剛載入時，天氣會由亮變暗，然後月亮會從上弦月變成下弦月，並且顯示現在的天氣。最下面會出現這一週的天氣狀況。
-作品連結</description>
-    </item>
-    
-    <item>
-      <title>作品 3 : 購物清單</title>
-      <link>https://iceyurk.github.io/blog/post-3/</link>
-      <pubDate>Fri, 29 May 2020 10:54:47 +0800</pubDate>
-      
-      <guid>https://iceyurk.github.io/blog/post-3/</guid>
-      <description>此作品是購物清單(Jquery ajax) 清單裡面的商品可以新增或刪除，更改之後總價會即時做統計。
-作品連結</description>
-    </item>
     
     <item>
       <title>作品 4 : 海洋</title>
